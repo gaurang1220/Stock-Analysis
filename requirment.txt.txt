@@ -1,0 +1,12 @@
+⚙ Technologies Used
+Platform: IBM Watsonx.ai
+
+Language: Python 3.11
+
+Key Libraries:
+
+ibm-watsonx-ai
+
+autoai-libs
+
+scikit-learn, xgboost, lightgbm, snapml
